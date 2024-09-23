@@ -15,4 +15,3 @@ public class atividade02 {
 
     }
 }
-2

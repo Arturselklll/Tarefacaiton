@@ -21,4 +21,3 @@ public class atividade04 {
 
     }
 }
-4

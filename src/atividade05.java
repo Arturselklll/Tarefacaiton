@@ -16,4 +16,3 @@ public class atividade05 {
         System.out.println("O primeiro nome: " + nomes[0] + " e " + nomes[1] + " e " + nomes[2]);
     }
 }
-5
